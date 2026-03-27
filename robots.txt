@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tommygoverstreet.github.io/Generative_Vehicle_Sales_Info/sitemap.xml
