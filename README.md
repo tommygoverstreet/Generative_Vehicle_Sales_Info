@@ -1,4 +1,15 @@
-# Generative_Vehicle_Sales_Info
+# Fleet Hub
+
+Executive-level commercial vehicle resource for Thomas Overstreet, Vehicle Sales in Oklahoma City.
+
+## Included
+
+- Responsive dashboard and buying guides for box trucks, day cabs, and sleeper semis
+- Shared visual system in `styles.css` with restrained color, responsive layout, focus states, and reduced-motion support
+- Shared `app.js` for progressive reveal animation, accessible FAQ state, Escape-key modal handling, and mobile navigation support
+- Structured content in `masterJSON.json`, `llms.txt`, and `sitemap.xml`
+
+Open `index.html` directly for a static local preview. The inventory request forms are presentation-only until a form endpoint is connected.
 
 # llms.txt — Fleet Hub by Thomas Overstreet
 # Standard AI/LLM crawler instruction file

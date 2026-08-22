@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Fleet Hub commercial vehicle sourcing</title>
+  <desc id="desc">Fleet-maintained commercial vehicles sourced nationwide by Thomas Overstreet.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071018"/><stop offset="1" stop-color="#102b35"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f0a35b"/><stop offset="1" stop-color="#3db6c6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M0 510 430 270 1200 430V630H0Z" fill="#0b1721" opacity=".72"/>
+  <path d="M760 0h440v630H960c-40-150-70-350-200-630Z" fill="#3db6c6" opacity=".08"/>
+  <g fill="none" stroke="#a8d9dd" opacity=".13"><path d="M0 110h1200M0 165h1200M0 220h1200"/><path d="M80 0v630M140 0v630M200 0v630"/></g>
+  <rect x="86" y="86" width="84" height="84" rx="14" fill="#f0a35b"/>
+  <text x="128" y="139" fill="#1b120b" font-family="Arial, sans-serif" font-size="27" font-weight="800" text-anchor="middle">RVS</text>
+  <text x="86" y="250" fill="#f4f7f5" font-family="Arial, sans-serif" font-size="72" font-weight="800">Fleet Hub</text>
+  <rect x="88" y="278" width="440" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="88" y="342" fill="#c3d5d7" font-family="Arial, sans-serif" font-size="30">Commercial vehicle sourcing</text>
+  <text x="88" y="390" fill="#8fa8ad" font-family="Arial, sans-serif" font-size="24">Box trucks · day cabs · sleepers · fleet guidance</text>
+  <text x="88" y="518" fill="#f0a35b" font-family="Arial, sans-serif" font-size="22" font-weight="700">THOMAS OVERSTREET</text>
+  <text x="88" y="554" fill="#c3d5d7" font-family="Arial, sans-serif" font-size="21">Vehicle Sales Expert · Oklahoma City · Nationwide sourcing</text>
+  <g transform="translate(800 320)" fill="none" stroke="#3db6c6" stroke-width="9" opacity=".72">
+    <path d="M-170 95h340v-115H30l-45-55h-155v170Z"/><path d="M-95 -75v170M-170 40h340"/><circle cx="-100" cy="120" r="31"/><circle cx="102" cy="120" r="31"/>
+  </g>
+</svg>

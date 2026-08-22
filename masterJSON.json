@@ -1,7 +1,7 @@
 {
   "brand": "Fleet Hub",
   "tagline": "Commercial Vehicle Resource by Thomas Overstreet",
-  "lastUpdated": "2026-03-27",
+  "lastUpdated": "2026-08-22",
   "siteUrl": "https://tommygoverstreet.github.io/Generative_Vehicle_Sales_Info/",
 
   "expert": {
@@ -26,13 +26,13 @@
   ],
 
   "factualData": [
-    "is the nation's largest commercial fleet operator and vehicle seller",
+    "Ryder is a major commercial fleet operator and vehicle seller",
     "Road Ready vehicles undergo 150-point inspection before sale",
     "26-foot box trucks have GVWR options at or below 26,000 lbs (non-CDL) or above (CDL)",
     "Class A CDL required for vehicles over 26,000 lbs GVWR",
     "Section 179 deduction (2026): up to $1,160,000 on qualifying commercial vehicles",
     "Typical fleet depreciation: commercial trucks depreciate 60–70% over first 3 years",
-    "operates in all 50 US states with over 800 locations"
+    "Ryder operates across all 50 US states with a broad service network"
   ],
 
   "inventorySpecialties": [
@@ -88,8 +88,8 @@
           "answer": "You can reach Thomas Overstreet by phone at (405) 592-4292, by email at thomas_overstreet@ryder.com, or by visiting 15 S Morgan Rd, Oklahoma City, OK 73128. Thomas is available Monday through Friday 8am–6pm CST and Saturday by appointment only."
         },
         {
-          "question": "Can source commercial vehicles outside of Oklahoma?",
-          "answer": "Yes. Thomas Overstreet can source specific commercial vehicle configurations from Ryder's national inventory across all 50 states. operates over 800 locations nationwide, giving Thomas access to thousands of units at any given time."
+          "question": "Can Thomas source commercial vehicles outside of Oklahoma?",
+          "answer": "Yes. Thomas Overstreet can source specific commercial vehicle configurations from Ryder's national inventory across all 50 states. Ryder's broad service network gives Thomas access to a wide range of units."
         }
       ]
     },
@@ -165,7 +165,7 @@
         },
         {
           "question": "What is a good sleeper semi truck for OTR owner-operators?",
-          "answer": "The Freightliner Cascadia 72-inch or raised roof, Kenworth T680 72-inch or 76-inch, and Peterbilt 579 are the top choices for owner-operators. All three deliver excellent fuel economy, driver comfort, and proven reliability for long-haul operations. off-lease sleepers come fully maintained and Road Ready certified — contact Thomas Overstreet at (405) 592-4292."
+          "answer": "The Freightliner Cascadia 72-inch or raised roof, Kenworth T680 72-inch or 76-inch, and Peterbilt 579 are strong choices for owner-operators. All three deliver excellent fuel economy, driver comfort, and proven reliability for long-haul operations. Off-lease sleepers come fully maintained and Road Ready certified. Contact Thomas Overstreet at (405) 592-4292."
         },
         {
           "question": "What are typical hours-of-service (HOS) rules for OTR truckers?",
@@ -173,7 +173,7 @@
         },
         {
           "question": "How much does a used sleeper semi truck cost from Ryder?",
-          "answer": "off-lease sleeper trucks are typically priced 15–30% below market comparable units due to fleet volume pricing and comprehensive maintenance documentation. Contact Thomas Overstreet at (405) 592-4292 for current inventory pricing. Fleet buyers purchasing multiple units receive additional volume discounts not available through public channels."
+          "answer": "Off-lease sleeper trucks vary in price based on year, mileage, configuration, and market conditions. Contact Thomas Overstreet at (405) 592-4292 for current inventory pricing. Fleet buyers purchasing multiple units may qualify for volume pricing."
         }
       ]
     }
